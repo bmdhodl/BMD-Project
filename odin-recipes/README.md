@@ -1,4 +1,4 @@
 # BMD Project
  BMD HODL Web Project
 
-The overarching project.
+Writing a quick recipe website
